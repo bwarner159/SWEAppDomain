@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>PhotoSec</title>
+<title>PhotoSec1.2</title>
 </head>
 <body>
 <h1>Welcome to PhotoSec!</h1>
@@ -15,7 +15,7 @@
 	Password: </br>
 	<input type="text" name="password"> </br>
 	<a href="HomePage.jsp">Forgot Password?</a>
-	<button type="submit" value="Submit">Submit</button>
+	<a href="Pictures.jsp"><button type="submit" value="Submit">Submit</button></a>
 	</form>
 </body>
 </html>

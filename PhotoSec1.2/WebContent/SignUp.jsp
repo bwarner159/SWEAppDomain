@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>PhotoSec</title>
+<title>PhotoSec1.2</title>
 </head>
 <body>
 	<a href="HomePage.jsp">
@@ -26,6 +26,7 @@
 				<input type="text" name="password"> </br>
 			Confirm Password: </br>
 				<input type="text" name="confirmpassword"> </br>
+			<a href="HomePage.jsp"><button value="submit">Submit</button></a>
 		</form>
 </body>
 </html>
